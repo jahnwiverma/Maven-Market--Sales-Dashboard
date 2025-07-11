@@ -35,11 +35,13 @@ HIGHLIGHTS:
 1. Matrix (Product Brand Analysis)
 
 -Shows Total Transactions, Profit, Profit Margin, and Return Rate by product brand.
+
 -Used to compare brand-level performance with conditional formatting for quick insights on best and worst-performing brands.
 
 2. KPI Cards (Monthly Overview)
 
 -Displays Current Month Transactions, Profit, and Returns vs. last month.
+
 -Used to track performance trends and compare key sales metrics month-over-month, with color coding to highlight good or poor results.
 
 3. Map (Transactions by Store City)
@@ -70,6 +72,7 @@ HIGHLIGHTS:
 8. Bookmarks with Buttons – Interactive Navigation
 
 -Custom bookmarks created for Portland (1000 sales), Vancouver (monthly returns), and Zacatecas (monthly profit), each with a button and icon.
+
 -Used to highlight key insights and enable quick navigation to important views.
 
 📈 BUSINESS IMPACT & INSIGHTS:
