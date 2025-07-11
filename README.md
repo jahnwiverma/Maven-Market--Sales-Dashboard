@@ -47,26 +47,31 @@ HIGHLIGHTS:
 3. Map (Transactions by Store City)
 
 -Shows geographical spread of transactions across cities.
+
 -Used to identify high-performing store locations and support regional performance analysis.
 
 4. Country Slicer (Store Country Filter)
 
 -Allows filtering visuals by store country with a “Select All” option.
+
 -Used to enable region-specific analysis and improve dashboard interactivity.
 
 5. Treemap ( Store-wise Transactions (Drill-down))
 
 -Breaks down Total Transactions by country, state, and city.
+
 -Used for multi-level geographic analysis with drill-up and drill-down capabilities.
 
 6. Column Chart (Weekly Revenue Trending)
 
 -Displays total revenue by week for the year 1998.
+
 -Used to track weekly performance trends and spot revenue patterns.
 
 7. Gauge Chart (Revenue vs. Target)
 
 -Compares total revenue against a predefined target.
+
 -Used to evaluate progress toward monthly goals in a simple, visual format.
 
 8. Bookmarks with Buttons – Interactive Navigation
