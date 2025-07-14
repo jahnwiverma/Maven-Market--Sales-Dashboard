@@ -94,4 +94,10 @@ HIGHLIGHTS:
 
 -Used bookmarks to spotlight key business milestones instantly.
 
+⚠️ *Known Issues & Setup Notes*
+
+*If you're using a non-US regional setting (like English - India), you may encounter errors with date fields in Power BI due to formatting conflicts.
+
+*Fix: Set your Power BI regional settings to English (United States) to ensure the dashboard loads and displays date values correctly.
+
 
