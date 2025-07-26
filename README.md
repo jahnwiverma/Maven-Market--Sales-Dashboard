@@ -100,4 +100,7 @@ HIGHLIGHTS:
 
 *Fix: Set your Power BI regional settings to English (United States) to ensure the dashboard loads and displays date values correctly.
 
+<img width="1286" height="720" alt="Snapshot of Maven Market dashboard" src="https://github.com/user-attachments/assets/96a9ff21-ac11-4de7-a26f-e6a509315761" />
+
+
 
